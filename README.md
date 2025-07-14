@@ -28,7 +28,7 @@ An educational desktop application for Class 9 and 10 students, designed to prov
 
 ## 👨‍💻 Developed By
 
-**Team Hacket**  
+**Samutoo**  
 Creators of *The Study Hacket*
 
 ---
